@@ -1,2 +1,4 @@
-"Hello World!"
-"Who's there?"
+Hello World!
+Knock, knock.
+Who's there?
+Git.
